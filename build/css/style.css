@@ -6235,7 +6235,6 @@ table.shoping-cart-table tr td:last-child {
 .title-white {
   color: #fff !important;
   font-weight: bold !important;
-  text-transform: uppercase !important;
   font-size: 35px !important;
 }
 .title-white-simple {
@@ -6247,7 +6246,6 @@ table.shoping-cart-table tr td:last-child {
 .sub-title-color {
   color: #184890 !important;
   font-weight: bold !important;
-  text-transform: uppercase !important;
   font-size: 30px !important;
 }
 
@@ -6260,7 +6258,6 @@ table.shoping-cart-table tr td:last-child {
 .sub-title-white {
   color: #fff !important;
   font-weight: bold !important;
-  text-transform: uppercase !important;
   font-size: 30px !important;
 }
 .sub-title-white-simple {
